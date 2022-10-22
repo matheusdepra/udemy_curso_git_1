@@ -2,10 +2,4 @@ Testando atualizacao d
 
 atualizado
 
-<<<<<<< HEAD
 branch 2
-=======
-alterado
-
-branch 1
->>>>>>> primeiro_branch
